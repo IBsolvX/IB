@@ -24,9 +24,6 @@ IBsolv provides cutting-edge solutions for various fields, offering services tha
 Whether you're an individual or a business, IBsolv is here to assist you in finding innovative solutions to your challenges. Our services aim to address your specific needs and requirements.
 
 ## Get in Touch
-Explore our GitHub repositories to discover our solved projects and benefit from our solutions. For inquiries or collaborations, feel free to reach out to us [here](mailto:contact@ibsolv.com).
+Explore our GitHub repositories to discover our solved projects and benefit from our solutions. For inquiries or collaborations, feel free to reach out to us [here](ib.solvx@gmail.com).
 
 We look forward to partnering with you on your journey to success!
-
----
-Note: This readme is just a template. Please customize it according to your specific projects and services, and ensure that you provide accurate contact information.
