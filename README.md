@@ -28,3 +28,5 @@ Whether you're an individual or a business, IBsolv is here to assist you in find
 Explore our GitHub repositories to discover our solved projects and benefit from our solutions.
 
 We look forward to partnering with you on your journey to success!
+
+Contact: ib.solvx@gmail.com
